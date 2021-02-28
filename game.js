@@ -172,7 +172,7 @@ const textStuffs = [
 
   {
     id: 9,
-    text: 'Du wirst im Supermarkt fündig. Du findest Konservierungsdosen und Wasserflaschen. Doch du kannst dich nichtall zu lange freuen. Die Tür wird aufgestoßen. Vier fremde Männer mit denselben Atemmasken stehen vor dir. Und sie sind bis zu den Zähnen bewaffnet.',
+    text: 'Du wirst im Supermarkt fündig. Du findest Konservierungsdosen und Wasserflaschen. Doch du kannst dich nicht all zu lange freuen. Die Tür wird aufgestoßen. Vier fremde Männer mit denselben Atemmasken stehen vor dir. Und sie sind bis zu den Zähnen bewaffnet.',
     options: [
       {
         text: 'Greif sie an.',
