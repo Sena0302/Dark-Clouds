@@ -1,0 +1,184 @@
+*, *::before, *::after{
+	box-sizing: border-box;
+	font-family: Courier;
+	color:white;
+
+
+
+}
+
+
+body{
+	padding: 0;
+	margin: 0;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 100vw;
+	height: 100vh;
+	background-color: black;
+	
+
+}
+
+
+
+h1{
+	position: top center;
+}
+
+.background{
+	
+}
+
+.container{
+
+	width: 800px;
+	height:400px;
+	max-width: 100%;
+	padding: 10px;
+	border-radius: 15px;
+	box-shadow: 0 0 10px 2px;
+	background-color: #26262E;
+
+}
+
+.Navi2{
+border: 2px solid white;
+border-radius: 5px;
+padding: 5px;
+position: absolute;
+bottom: 100px; right: 565px;
+	display: grid;
+	grid-template-columns: repeat(2, auto);
+	grid-gap: 575px;
+
+
+}
+
+.Navi3{
+
+margin-left: 350px;
+display: flex;
+	margin-top:120px;
+
+
+
+}
+
+.navi1 {
+
+	
+	margin-left: 240px;	
+	display: flex;
+	margin-top:135px;
+
+}
+
+.bnt{
+
+background-color: #26262E;
+	border: 3px double #ccc;
+	border-radius: 5px;
+	padding: 10px 10px;
+	outline: none;
+
+	margin-right: 50px;
+
+	
+}
+
+
+
+
+ .bn{
+ 	
+background-color: #26262E;
+	border: 3px double #ccc;
+	border-radius: 5px;
+	padding: 4px 4px;
+	color: white;
+	outline: none;
+
+	
+}
+
+ .bn1{
+ 	
+background-color: #26262E;
+	border: 3px double #ccc;
+	border-radius: 5px;
+	padding:10px;
+	color: white;
+	outline: none;
+
+	
+}
+
+
+a{
+	font-family: courier;
+	text-decoration: none;
+	color: white;
+
+}
+
+
+
+
+
+.btn-grid {
+
+
+	display: grid;
+	grid-template-columns: repeat(2, auto);
+	grid-gap: 10px;
+	margin-top: 150px;
+
+}
+
+.btn{
+	
+	font-family: Courier;
+	background-color: #26262E;
+	border: 3px double #ccc;
+	border-radius: 5px;
+	padding: 10px 5px;
+	color: white;
+	outline: none;
+
+}
+
+.btn:hover {
+	border-color: red;
+	color: red;
+
+}
+
+.bn:hover {
+	border-color: red;
+	color: red;
+
+}
+
+.bnt:hover {
+	border-color: red;
+	color: red;
+
+}
+
+.bn1:hover {
+	border-color: red;
+	color: red;
+
+}
+
+.logo{
+	position: absolute;
+	top:20px;
+
+
+	
+
+
+}
