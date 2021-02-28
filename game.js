@@ -494,7 +494,7 @@ const textStuffs = [
 
 {
     id: 24.2,
-    text: 'Der Anführer lässt dich in seiner Hütte übernachten und am nächsten Morgen fährt ihr gesträrkt los. Die Wesen wurden vor ein paar Tagen unweit von der Gemeinde gesichtet. Du erfährst, das sie bereits von den Männern angegriffen wurden, doch ein paar haben es geschafft zu fliehen. Die Männer suchen seit ihren letzten Angriff nach den letzten Überlebenden. Devan erklärt, das sie manchmal zwischen den Wolken herabsteigen, um sich ihr grausames Werk anzuschauen. Das sind die einzigen Momente in denen Menschen sie angreifen können. Nach mehreren Stunden fahrt erkennst du einen Haufen verbeulten Metall in der Ferne. Ein fremdes Flugobjekt.' ,
+    text: 'Der Anführer lässt dich in seiner Hütte übernachten und am nächsten Morgen fährt ihr gesträrkt los. Die Wesen wurden vor ein paar Tagen unweit von der Gemeinde gesichtet. Du erfährst, das sie bereits von den Männern angegriffen wurden, doch ein paar haben es geschafft zu fliehen. Die Männer suchen seit ihren letzten Angriff nach den letzten Überlebenden. Devan erklärt, das sie manchmal zwischen den Wolken herabsteigen, um sich ihr grausames Werk anzuschauen. Das sind die einzigen Momente in denen Menschen sie angreifen können. Nach mehreren Stunden Fahrt erkennst du einen Haufen verbeulten Metall in der Ferne. Ein fremdes Flugobjekt.' ,
       options: [ 
       {
         text: 'Sage nichts.',
@@ -518,7 +518,7 @@ const textStuffs = [
       },
 
        {
-        text: 'Halte Still und spiele tot.',
+        text: 'Halte still und spiele tot.',
         nextText: 24.6
       }
     ]
@@ -603,7 +603,7 @@ options: [
 
     {
     id: 24.4,
-    text: 'Als du zu dir kommst, blendet dich das klare Blau des Himmels. War das alles etwa ein Traum? Aber wo befindest du dich dann jetzt schon wieder? Schnell erkennst du, das du doch tatsächlich im Himmel bist und das dank dem Flugobjekt, der über den Wolken schwebt. Ein Räuspern ertönt hinter dir. Verwirrt drehst du dich um. Ein älterer Mann, der dir ziemlich bekannt vor kommt schaut dich lächelnd an. "Willkommen zuhause, mein Kind."',
+    text: 'Als du zu dir kommst, blendet dich das klare Blau des Himmels. War das alles etwa ein Traum? Aber wo befindest du dich dann jetzt schon wieder? Schnell erkennst du, das du doch tatsächlich im Himmel bist und das dank dem Flugobjekt, der über den Wolken schwebt. Ein Räuspern ertönt hinter dir. Verwirrt drehst du dich um. Ein älterer Mann, der dir ziemlich bekannt vorkommt, schaut dich lächelnd an. "Willkommen zuhause, mein Kind."',
       
 options: [
       {
@@ -622,7 +622,7 @@ options: [
 
     {
     id: 25,
-    text: 'Als du zu dir kommst, blendet dich das klare Blau des Himmels. War das alles etwa ein Traum? Aber wo befindest du dich dann? Schnell erkennst du, das du doch tatsächlich im Himmel bist und das dank dem Flugobjekt, der über den Wolken schwebt. Ein Räuspern ertönt hinter dir. Verwirrt drehst du dich um. Ein älterer Mann, der dir ziemlich bekannt vor kommt schaut dich lächelnd an. "Willkommen zuhause, mein Kind."',
+    text: 'Als du zu dir kommst, blendet dich das klare Blau des Himmels. War das alles etwa ein Traum? Aber wo befindest du dich dann? Schnell erkennst du, das du doch tatsächlich im Himmel bist und das dank dem Flugobjekt, der über den Wolken schwebt. Ein Räuspern ertönt hinter dir. Verwirrt drehst du dich um. Ein älterer Mann, der dir ziemlich bekannt vorkommt, schaut dich lächelnd an. "Willkommen zuhause, mein Kind."',
       
 options: [
       {
@@ -641,7 +641,7 @@ options: [
 
   {
     id: 25.1,
-    text: 'Der Mann lacht. "Sie haben dir ziemlich zugeschlagen. Aber keine Sorge, jetzt bist du sicher. Trotzdem werden diese Ungeziefer dafür zahlen. Niemand wagt es ungestraft den Kind, des großen Imperators anzugreifen!',
+    text: 'Der Mann lacht. "Sie haben dir ziemlich zugeschlagen. Aber keine Sorge, jetzt bist du sicher. Trotzdem werden diese Ungeziefer dafür zahlen. Niemand wagt es ungestraft das Kind des großen Imperators anzugreifen!',
       
 options: [
       {
@@ -684,7 +684,7 @@ options: [
 
  {
     id: 26.1,
-    text: 'Zusammen verteilt ihr euch auf leisen Sohlen um die Wesen herum, die ahnungslos dennoch aufmerksam die Straße beobachten. Die Wesen sind eingepackt mit dicken, schwarzen Anzügen. Das Gift muss auch für sie tödlich sein. Devan hat auf der Fahrt erwähnt, das keiner weiß wie die Wesen wirklich aussehen. Nur die Wesen können sich aus den Anzügen befreien, doch kein Mensch ist je Zeuge davon geworden. Mit gehobener Waffe näherst du dich bis einer aufsieht. Statt die Hände zu heben, zieht er eine fremdartige Waffe hervor. Du hälst deinen Atem an, bereit zu schießen, da donnert Devan dem Wesen eine Kugel in den Schädel. Sofort springen die anderen auf die Füße, doch es zu spät. Nacheinander fallen sie tod zu boden, angeschossen. Nur einer hebt die Arme in Ergebenheit.' ,
+    text: 'Zusammen verteilt ihr euch auf leisen Sohlen um die Wesen herum, die ahnungslos dennoch aufmerksam die Straße beobachten. Die Wesen sind eingepackt mit dicken, schwarzen Anzügen. Das Gift muss auch für sie tödlich sein. Devan hat auf der Fahrt erwähnt, das keiner weiß wie die Wesen wirklich aussehen. Nur die Wesen können sich aus den Anzügen befreien, doch kein Mensch ist je Zeuge davon geworden. Mit gehobener Waffe näherst du dich bis einer aufsieht. Statt die Hände zu heben, zieht er eine fremdartige Waffe hervor. Du haltest deinen Atem an, bereit zu schießen, da donnert Devan dem Wesen eine Kugel in den Schädel. Sofort springen die anderen auf die Füße, doch es zu spät. Nacheinander fallen sie Tod zu Boden, angeschossen. Nur einer hebt die Arme in Ergebenheit.' ,
       options: [ 
       {
         text: 'Töte es.',
@@ -700,7 +700,7 @@ options: [
 
   {
     id: 26.2,
-    text: 'Leblos fällt es zu Boden. "Ein dutzend weniger. Gut gemacht Männer. Morgen machen wir weiter!" Devan klopft dir auf die Schulter. Du versuchst zu lächeln, aber es fühlt sich falsch an. Erinnerungen von einem warmen Lächeln eines älteren Mannes kommen dir in den Sinn. Dein Vater. Der...',
+    text: 'Leblos fällt es zu Boden. "Ein Dutzend weniger. Gut gemacht Männer. Morgen machen wir weiter!" Devan klopft dir auf die Schulter. Du versuchst zu lächeln, aber es fühlt sich falsch an. Erinnerungen von einem warmen Lächeln eines älteren Mannes kommen dir in den Sinn. Dein Vater. Der...',
     options: [ 
       {
         text: '"Imperator." FIN',
@@ -731,7 +731,7 @@ options: [
 
   {
     id: 26.4,
-    text: 'Die Fahrt zurück verläuft ruhig, aber du wirst das Gefühl nicht los das etwas nicht stimmt. Devan verspricht dir mit einem Lächeln, das er dir als Belohnung morgen bei seiner nächsten Nahrungssuche etwas besonders schmackhaftes bringen wird, aber selbst das beruhigt dein unruhiges Gemüt nicht.',
+    text: 'Die Fahrt zurück verläuft ruhig, aber du wirst das Gefühl nicht los das etwas nicht stimmt. Devan verspricht dir mit einem Lächeln, das er dir als Belohnung morgen bei seiner nächsten Nahrungssuche etwas besonders Schmackhaftes bringen wird, aber selbst das beruhigt dein unruhiges Gemüt nicht.',
      options: [ 
       {
         text: 'Suche das Wesen später im geheimen auf.',
@@ -747,7 +747,7 @@ options: [
 
   {
     id: 26.5,
-    text: 'Das Wesen zögert. "Du musst deine Erinnerungen verloren haben..." Erstaunt willst du mehr fragen, doch Devan knallt den Kofferraum zu. "Ich verstehe nie, was diese Aliens von sich geben. So eine beschissen eigenartige Sprache." Du bist überrascht, lässt dir aber nichts anmerken. Wieso kannst du die Wesen verstehen? Devan verspricht dir mit einem Lächeln, das er dir als Belohnung morgen bei seiner nächsten Nahrungssuche etwas besonders schmackhaftes bringen wird, aber selbst das beruhigt dein unruhiges Gemüt nicht.',
+    text: 'Das Wesen zögert. "Du musst deine Erinnerungen verloren haben..." Erstaunt willst du mehr fragen, doch Devan knallt den Kofferraum zu. "Ich verstehe nie, was diese Aliens von sich geben. So eine beschissen eigenartige Sprache." Du bist überrascht, lässt dir aber nichts anmerken. Wieso kannst du die Wesen verstehen? Devan verspricht dir mit einem Lächeln, das er dir als Belohnung morgen bei seiner nächsten Nahrungssuche etwas besonders Schmackhaftes bringen wird, aber selbst das beruhigt dein unruhiges Gemüt nicht.',
      options: [ 
       {
         text: 'Suche das Wesen später im geheimen auf.',
@@ -766,7 +766,7 @@ options: [
     text: 'Es ist dunkel wie immer, aber die meisten schlafen. Du schleichst dich in die Hütte mit den stabilsten Wänden, das als Gefängnis für das Wesen dient. Es ist wach. "Ich habe auf dich gewartet."',
     options: [ 
       {
-        text: 'Woher kennst du mich?.',
+        text: 'Woher kennst du mich?',
         nextText: 26.7
       },
 
@@ -820,7 +820,7 @@ options: [
     text: '"Dann komm näher. Du willst sicherlich wissen, wieso du mich verstehen kannst."',
     options: [ 
       {
-        text: 'Du hast dein Messer bei dir und bist überzeugt, das du es gegen es aufnehmen kannst sollte es Probleme bereiten. Du tritts näher.',
+        text: 'Du hast dein Messer bei dir und bist überzeugt, dass du es gegen es aufnehmen kannst sollte es Probleme bereiten. Du trittst näher.',
         nextText: 24.9
       },
 
@@ -852,7 +852,7 @@ options: [
 
   {
     id: 27.2,
-    text:' Zu deiner Überraschung steht Devan vor der Hütte und grinst dich an. "Wolltest dem Scheißer angst machen, hm?" Devan klopft dir auf die Schulter. Du versuchst zu lächeln, aber es fühlt sich falsch an. Erinnerungen von einem warmen Lächeln eines älteren Mannes kommen dir in den Sinn. Dein Vater. Der...',
+    text:' Zu deiner Überraschung steht Devan vor der Hütte und grinst dich an. "Wolltest dem Scheißer Angst machen, hm?" Devan klopft dir auf die Schulter. Du versuchst zu lächeln, aber es fühlt sich falsch an. Erinnerungen von einem warmen Lächeln eines älteren Mannes kommen dir in den Sinn. Dein Vater. Der...',
     options: [ 
       {
         text: '"Imperator." FIN',
@@ -863,7 +863,7 @@ options: [
 
   {
     id: 27,
-    text:'Ihr könnt Devan abschütteln, doch ihr habt nicht viel Zeit. Ihr seid zu Fuß und Devan und seine Freunde haben einen Volvo. Doch das Wesen scheint nicht besorgt. "Keine Sorge. Gleich sollte ein Schiff ankommen. Wir haben den ganzen Tag darauf gewartet, bevor die Menschen uns angegriffen haben." Er vermeidet es zu erwähnen, das auch du sie angegriffen hast. Es dauert nicht lange und die Wolken teilen sich wirklich für einen Moment. Du siehst glitzernde Sterne, die jedoch gleich wieder von den Wolken verdeckt werden. Riesige Flugobjekte steigen aus dem Himmel. Du hörst die Menschen von weiten schreien.',
+    text:'Ihr könnt Devan abschütteln, doch ihr habt nicht viel Zeit. Ihr seid zu Fuß und Devan und seine Freunde haben einen Volvo. Doch das Wesen scheint nicht besorgt. "Keine Sorge. Gleich sollte ein Schiff ankommen. Wir haben den ganzen Tag darauf gewartet, bevor die Menschen uns angegriffen haben." Er vermeidet es zu erwähnen, dass auch du sie angegriffen hast. Es dauert nicht lange und die Wolken teilen sich wirklich für einen Moment. Du siehst glitzernde Sterne, die jedoch gleich wieder von den Wolken verdeckt werden. Riesige Flugobjekte steigen aus dem Himmel. Du hörst die Menschen von weiten schreien.',
     options: [ 
       {
         text: 'Ignorier sie.',
@@ -912,7 +912,7 @@ options: [
     text:'Die Menschen in der Gemeinde schmeißen Devan und seinen Soldaten ein kleines Fest. Morgen werden sie ihren Rachezug ausüben und die restlichen Wesen erledigen, die ihren letzten Angriff überlebt haben.',
     options: [ 
       {
-        text: 'Finde jemanden, der dir erkärt wer diese Wesen sind.',
+        text: 'Finde jemanden, der dir erklärt wer diese Wesen sind.',
         requiredState: (currentState) => currentState.Unwissen,
         setState: {Unwissen:true},
         nextText: 30.2
@@ -935,7 +935,7 @@ options: [
   },
 {
     id: 30.2,
-    text:'Du findest Kinder, die lebhaft herum spielen.',
+    text:'Du findest Kinder, die lebhaft herumspielen.',
     options: [ 
       {
         text: 'Sprich sie an.',
@@ -975,7 +975,7 @@ options: [
 
    {
     id: 30.5,
-    text: '"Menschen? Da siehst du sie. So viele sind übrig geblieben. Es gibt weitere Bezirke, doch die besitzen auch nur eine Handvoll Leute. Opa sagt, das Gift in den Luft kriegt jeden zu fassen, die Atemmasken verzögern nur das Unaufhaltsame."',
+    text: '"Menschen? Da siehst du sie. So viele sind übriggeblieben. Es gibt weitere Bezirke, doch die besitzen auch nur eine Handvoll Leute. Opa sagt, das Gift in der Luft kriegt jeden zu fassen, die Atemmasken verzögern nur das Unaufhaltsame."',
     options: [
       {
         text: '"Wie sind diese Wolken entstanden?"',
@@ -1038,7 +1038,7 @@ options: [
 
       {
     id: 30.4,
-    text: 'Der Frieden hält nicht lange. Als Devan und seine Soldaten am nächsten Tag losfahren, dauert es nicht lange bis die Hölle ausbricht. Du kannst deinen Augen nicht trauen, aber die Wolken teilen sich. Für einen kurzen Moment siehst du das strahlenden blau des Himmels, bevor es schon wieder von etwas bedeckt wird. Ein gewaltiges Flugobjekt. In dem Moment kommt Devan her gerannt, blutig und mit den Kräften zu Ende. Angestrengt fängt er an zu Keuchen: "Hinterhalt... Bastarde haben ... alle tot." Er fällt um, bewusstlos und unwissend das er die Wesen hergelockt hat.' ,
+    text: 'Der Frieden hält nicht lange. Als Devan und seine Soldaten am nächsten Tag losfahren, dauert es nicht lange bis die Hölle ausbricht. Du kannst deinen Augen nicht trauen, aber die Wolken teilen sich. Für einen kurzen Moment siehst du das strahlenden Blau des Himmels, bevor es schon wieder von etwas bedeckt wird. Ein gewaltiges Flugobjekt. In dem Moment kommt Devan hergerannt, blutig und mit den Kräften zu Ende. Angestrengt fängt er an zu Keuchen: "Hinterhalt... Bastarde haben ... alle tot." Er fällt um, bewusstlos und unwissend das er die Wesen hergelockt hat.' ,
       options: [ 
       {
         text: 'Versteck dich!',
@@ -1058,7 +1058,7 @@ options: [
 
     {
     id: 31,
-    text: 'Du versteckst dich und siehst dabei zu, wie das Flugobjekt sicher landet. Menschen schreien und wissen nicht wohin, den bald folgen immer mehr Flugobjekte die die Gemeinde umzingeln. Devan und seine Soldaten waren wohl für eine lange Zeit ein Dorn im Auge für die Wesen. Gestalten in schwarzen ganzekörper Anzügen verlassen das Flugobjekt und fangen an auf die Menschen zu schießen. Du siehst wie Kinder und ein älterer Mann blutig erschossen werden.' ,
+    text: 'Du versteckst dich und siehst dabei zu, wie das Flugobjekt sicher landet. Menschen schreien und wissen nicht wohin, den bald folgen immer mehr Flugobjekte, die die Gemeinde umzingeln. Devan und seine Soldaten waren wohl für eine lange Zeit ein Dorn im Auge für die Wesen. Gestalten in schwarzen ganzkörper Anzügen verlassen das Flugobjekt und fangen an auf die Menschen zu schießen. Du siehst wie Kinder und ein älterer Mann blutig erschossen werden.' ,
       options: [ 
       {
         text: 'Stell dich gegen sie und kämpfe!',
@@ -1078,7 +1078,7 @@ options: [
 
      {
     id: 31.2,
-    text: 'Tapfer rennst auf einen der Wesen zu. Du triffst ihn an der Brust, doch dein Heldentum bleibt nicht für lange. Einer der Wesen schießt dir in den Rücken.' ,
+    text: 'Tapfer rennst du auf einen der Wesen zu. Du triffst ihn an der Brust, doch dein Heldentum bleibt nicht für lange. Einer der Wesen schießt dir in den Rücken.' ,
       options: [ 
       {
         text: 'Fail. Restart.',
@@ -1094,7 +1094,7 @@ options: [
 
     {
     id: 31.3,
-    text: 'Du hast es geschafft! Du hast dich in einen der Flugobjekte geschliechen! Unsicher setzt du dich auf den Pilotensitz und versuchst den Kontrolldisplay zu entziffern. Aber warte... das brauchst du nicht. Mit geübten Touchberührungen schwebt das Flugobjekt bereits in der Luft! Erfreut steuerst du das Objekt über die Wolken. Aber woher weißt du es zu steuern? Es fühlt sich beinahe wie eine Muskelerinnerung an... Mit leichtigkeit schwebst du zwischen den Wolken hinauf und staunst nicht schlecht. Der blaue Himmel ist atemberaubend, aber so auch das große Mutterschiff, das aus einer riesigen Röhre dunkles Gas heraus stößt... so entstehen also die Wolken. "Wer bist du?!" Erschrocken drehst du dich um. Ein Wesen zielt mit seiner Waffe auf dich, doch es schießt nicht. "Warte, du..."' ,
+    text: 'Du hast es geschafft! Du hast dich in einen der Flugobjekte geschliechen! Unsicher setzt du dich auf den Pilotensitz und versuchst den Kontrolldisplay zu entziffern. Aber warte... das brauchst du nicht. Mit geübten Touchberührungen schwebt das Flugobjekt bereits in der Luft! Erfreut steuerst du das Objekt über die Wolken. Aber woher weißt du es zu steuern? Es fühlt sich beinahe wie eine Muskelerinnerung an... Mit Leichtigkeit schwebst du zwischen den Wolken hinauf und staunst nicht schlecht. Der blaue Himmel ist atemberaubend, aber so auch das große Mutterschiff, das aus einer riesigen Röhre dunkles Gas heraus stößt... so entstehen also die Wolken. "Wer bist du?!" Erschrocken drehst du dich um. Ein Wesen zielt mit seiner Waffe auf dich, doch es schießt nicht. "Warte, du..."' ,
       options: [ 
       {
         text: 'Greif es an.',
@@ -1200,7 +1200,7 @@ options: [
 
      {
     id: 31.8,
-    text: 'Du steurst dein Schiff direkt auf das Mutterschiff zu. Dein Ziel: die große Röhre, die das Gift in der Luft verursacht. Kurz vor den Aufprall schließt du die Augen. Das ist das mindeste, was du tun kannst. ',
+    text: 'Du steuerst dein Schiff direkt auf das Mutterschiff zu. Dein Ziel: die große Röhre, die das Gift in der Luft verursacht. Kurz vor den Aufprall schließt du die Augen. Das ist das mindeste, was du tun kannst. ',
     options: [ 
       {
         text: "Fin.",
